@@ -8,4 +8,3 @@
 		echo "Hapus data gagal...,
 			<a href='index.php'><<< Kembali</a>";
 	}
-?>
